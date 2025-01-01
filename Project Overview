@@ -1,0 +1,10 @@
+Project Overview
+
+- Objective: Create a responsive, interactive e-commerce home page with a user-friendly interface.  
+- Key Features:
+              - Navigation bar with categories, search, and cart icons.  
+              - Product showcase displaying images, prices, and descriptions.  
+              - Footer with contact information and social media links.  
+              - Design Focus: Clean, responsive layouts for all devices with interactive elements (hover effects, sliders).  
+              - Technologies: HTML5, CSS3, Bootstrap/Tailwind CSS, JavaScript, and optional React.js.  
+
