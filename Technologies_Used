@@ -1,0 +1,20 @@
+1. HTML5:
+         - Provides the structure for the webpage, defining elements like headings, images, links, and forms.
+
+2. CSS3:
+         - Styles the webpage, including layout, typography, colors, spacing, and responsive design.
+
+3. Bootstrap:
+         - A CSS framework for quickly building responsive and mobile-first web pages.
+
+4. Tailwind CSS: 
+         - A utility-first CSS framework for creating custom designs without writing custom CSS.
+
+5. JavaScript:
+        - Adds interactivity, such as product sliders, hover effects, and form validation.
+
+6. React.js:
+        - A JavaScript library for building interactive UIs with reusable components and managing the page state (e.g., shopping cart).
+
+7. Node.js:
+        - A runtime environment for executing JavaScript code server-side and running development tools (e.g., npm start, npm install).
