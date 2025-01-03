@@ -11,22 +11,4 @@ COMMANDS ARE:-
      bash
      git clone https://github.com/your-username/e-commerce-homepage.git
              
-3. Install Dependencies (For React.js version):
-COMMANDS ARE:-
-   bash
-   npm install
-   
-4. Run the Project:
-   - For static HTML/CSS/JS: Open `index.html` in your browser.
-   - Visit `http://localhost:3000` in your browser.
-COMMANDS ARE:-
-     bash
-     npm start
-   
-5. Test Responsiveness:  
-               - Use browser dev tools to test the layout across different screen sizes.
-
-6. Build for Production(React.js):  
-   bash
-   npm run build
-
+3. Used html,css and javascript.
